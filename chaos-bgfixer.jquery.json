@@ -1,0 +1,25 @@
+{
+	"name": "chaos-bgfixer",
+	"title": "jquery-chaos-bgfixer",
+	"description": "A jQuery plugin that forces the size of HTML elements to be set so that CSS backgrounds are never incompletely rendered (cut off).",
+	"keywords": [
+		"css",
+		"background"
+	],
+	"version": "1.0.2",
+	"author": {
+		"name": "Matthew Sigley"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/msigley/jquery-chaos-bgfixer/blob/master/LICENSE"
+		}
+	],
+	"bugs": "https://github.com/msigley/jquery-chaos-bgfixer/issues",
+	"homepage": "https://github.com/msigley/jquery-chaos-bgfixer",
+	"docs": "https://github.com/msigley/jquery-chaos-bgfixer",
+	"dependencies": {
+		"jquery": ">=1.7.1"
+	}
+}
