@@ -4,7 +4,7 @@
  * The CSS background will be repeated both the x and y axis a whole number of times.
  * Currently Supports the following values for background-repeat: repeat-x, repeat-y, and repeat.
  * By Matthew Sigley
- * Version 1.0.1
+ * Version 1.0.2
  */
 
 (function( $ ) {
